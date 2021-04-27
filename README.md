@@ -1,1 +1,1 @@
-# This project is a simple rock, paper, scissors game made in Python
+### This project is a simple rock, paper, scissors game made in Python
